@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mnum_newton_sistemas", "mnum_newton\mnum_newton.vcxproj", "{3024D3E4-2EBF-4CC6-8F51-5DA2E1CCEC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3024D3E4-2EBF-4CC6-8F51-5DA2E1CCEC70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3024D3E4-2EBF-4CC6-8F51-5DA2E1CCEC70}.Debug|Win32.Build.0 = Debug|Win32
+		{3024D3E4-2EBF-4CC6-8F51-5DA2E1CCEC70}.Release|Win32.ActiveCfg = Release|Win32
+		{3024D3E4-2EBF-4CC6-8F51-5DA2E1CCEC70}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
